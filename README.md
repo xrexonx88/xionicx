@@ -1,2 +1,2 @@
 # xionicx
-To be refactor
+TODO : To refactor this project when boredom strikes..
